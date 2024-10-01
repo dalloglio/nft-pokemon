@@ -1,0 +1,19 @@
+{
+  "name": "nft-pokemon",
+  "version": "1.0.0",
+  "description": "Contrato inteligente baseado no padrão ERC721 (NFTs) que permite a criação e batalha de Pokémon no blockchain.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.12"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.2"
+  }
+}
